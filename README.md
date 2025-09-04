@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/birthday-site-v2.git
+git clone https://github.com/huza437/Birthday2.0
 
 # Navigate into the folder
 cd birthday-site-v2
@@ -42,7 +42,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 Follow me for more emotional surprise websites and creative dev content:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/drea_ding_thou_ght_2.0)
+- 📷 Instagram: [@MrGenius](https://instagram.com/drea_ding_thou_ght_2.0)
 
 
 ---
@@ -51,4 +51,4 @@ Follow me for more emotional surprise websites and creative dev content:
 
 If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Huza437)  
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
+Made with emotions by **Huzaif** – Mr Genius
